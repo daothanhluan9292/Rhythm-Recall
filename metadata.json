@@ -1,0 +1,8 @@
+{
+  "name": "Rhythm Recall",
+  "description": "A rhythm-based memory game where you listen and replay patterns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
